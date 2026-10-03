@@ -1,5 +1,5 @@
 :root{
-    --fondo:#ccca93e2;
+    --fondo:#ebead5e2;
     --texto:#025616;
     --espacio: 1rem; 
 }
@@ -57,4 +57,20 @@ h1{
     font-weight:bold;
     box-shadow: 0 8px 18px rgba(23,53,0,0.2);
 
+}
+.caja-azul{
+    background-color: blue;
+}
+
+.caja-verde{
+    background-color: #025616;
+}
+.caja-naranja{
+    background-color: orange;
+}
+.caja-morado{
+    background-color: purple;
+}
+.caja-rosa{
+    background-color: #e41a4c;
 }
